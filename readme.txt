@@ -13,9 +13,4 @@ Pueden cambiar el diccionario de disponibilidad de agentes por
 franja para ver como cambian las metricas de servicio. 
 
 
-Feliz simulación y gracias por todo! 
-
-César 
-Nicolas 
-José 
-Daniel  
+César
